@@ -24,11 +24,11 @@ Lab 1
 
 Lab 2
 
-[1. DB modelling problem]()
+[1. DB modelling problem](https://github.com/kittyrad/laborator1/blob/master/src/resources/Laborator%202/Specificatie%20Magazin.docx)
 
-[2. JSF Application Example]()
+[2. JSF Application Example](https://github.com/kittyrad/HelloStudent)
 
-[3. What is JSF?]()
+[3. What is JSF?](https://www.tutorialspoint.com/jsf/index.htm)
 
 Lab 3
 
